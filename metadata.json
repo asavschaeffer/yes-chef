@@ -1,0 +1,8 @@
+{
+  "name": "Yes Chef",
+  "description": "Your AI-powered kitchen assistant. Manage inventory, get real-time cooking guidance via voice, and generate recipes with the power of Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
